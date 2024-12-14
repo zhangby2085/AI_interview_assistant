@@ -10,6 +10,7 @@ The AI Interview Assistant is an interactive application that uses speech recogn
 - **Session History**: Maintains conversation history for context-aware responses.
 
 ## Prerequisites
+![Screenshot 2024-12-14 110138](https://github.com/user-attachments/assets/03f00e62-d084-4a59-bd52-9dc78abcdc11)
 
 - Python 3.8 or higher
 - Internet connection for API requests
